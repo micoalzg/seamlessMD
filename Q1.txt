@@ -1,0 +1,12 @@
+Changes to patient.json
+
+  1. text.div; replaced /n with <br> tags, removed closing div tag because no need for addition div inside another div, and fixed closing <p> tag.
+  2. text object did not have opening '{' bracket.
+  3. identifier missing semi-colon ':'
+  4. made identifier an object instead of an array because array doesn’t seem necessary for one identity.
+  5. made name an object as well with properties family and given because this is information for a single patient no need for multiple name objects. 
+     each person only has 1 family name and 1 given name no need to make those values an array in my opinion.
+  6. closing " on gender property.
+  7. conditions array elements weren’t separated properly added a comma.
+  8. added commas to separate properties properly.
+  9. properties such as name, gender, conditions were added to identifier object.

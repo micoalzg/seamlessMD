@@ -1,0 +1,13 @@
+1. The rope attached to the boat.
+2. The colour of the liquid in side of barrel.
+3. The ears on the sheep second from the right.
+4. The number of strawberries 2 versus 3 only the cobblestone path.
+5. The railings inside of the gazibo 1 vs 2.
+6. The roofing on top of the well. (Number of planks 3 vs 4)
+7. The branch between the 2 apple trees. (one is missing)
+8. The direction that the soil is pointing is not aligned.
+9. The small detail on the middle left side of the picture, hiding behind the popsicle shaped plant.
+
+Roughly took 15 minutes. My strategy was to compare large objects first then look 
+at the finer details later, for example, comparing tree to tree and then looking at smaller 
+details hidden in the tree like the number of apples. 
